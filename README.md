@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amany-fawzy
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML5,CSS3,JavaScript.
-- 💞️ I’m looking to collaborate on front end development field in a team.
+- Hi, I’m @amany-fawzy
+- I’m interested in front-end development.
+- I’m currently learning HTML5,CSS3,JavaScript.
+- I’m looking to collaborate with a team in  front end development field.
 
 
 <!---
