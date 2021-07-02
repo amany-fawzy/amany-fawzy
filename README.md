@@ -2,7 +2,7 @@
 - I’m interested in front-end development.
 - Professional web developer graduated from Udacity on Egypt FWD (the Future work is a digital) initiative powered by Information Technology Industry Development Agency (ITIDA) Under the umbrella of Digital Egypt Strategy, Ministry of Communications and Information Technology (MCIT) and did many projects that include: my profile, Weather Journal app, Mohamed Salah, and Landing Page, CV template, and Promotional Website.
 
-How can I help you:
+- How can I help you:
 1.  developing responsive landing pages.
 1.  All features are usable across modern desktop, tablet, and phone browsers.
 1. deploying on the server..
